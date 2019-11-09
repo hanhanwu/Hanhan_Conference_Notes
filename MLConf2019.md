@@ -32,6 +32,26 @@ Hey, it's San Francisco! Havn't been here for many years, and till it's very win
   * "In neural net language, a VAE consists of an encoder, a decoder, and a loss function. In probability model terms, the variational autoencoder refers to approximate inference in a latent Gaussian model where the approximate posterior and model likelihood are parametrized by neural nets (the inference and generative networks)", referenced from [VAE tutorial][6]
 * Because Netflix has gigantic amount of data, they suggest to use <b>Incremented trained deep learning model</b>, with a fully trained model, later you just need to add additional nodes and parameters. This solution is to deal with fast changing data and long time trained model. Much better than reconstructed model.
 
+## Uncanny Valley of Machine Learning
+* They found, more human labeling not always increase machine learning prediction results. When the labeling reached to a certain amount, not only thr performance dropped but also the decision making time became longer. Therefore, when applying machine learning in some serious situations, such as judiciary cases, it can be dangerous. I like they can not only disclose the problems but also provide suggestions with reasons.
+* Suggested Solutions
+  * Build simulators for integrated machine learning & human decision making system, to evaluate whether ML will bring more benefits. If not, better not to integrate the system with ML
+  * Relabel bad labels, with ML
+  * Release ML system that human won't pay attention to. Since it seems that, when human beings know that machine learning has been used into the system, they are more likely to create wrong labels.
+  * HCI, DS, AI, UX, Psychology, etc. should work together
+  * Pay attention to the policy behind
+  * Having metrics that will help false predicted victims
+  
+## PerceptiLabs - A ML Platform
+* I like their UI design, expecially after dragging and running each step, there's a visualized result. They type of step-by step DS visualization can help not only data scientists but also stakeholders/clients to understand how ML models work better.
+* [Demo][7]
+* [Download the tool][8]
+
+
+## Summary
+* My favorite part of 1-day conference is, you don't need to walk between conference rooms, and will get more chance to chat with different people without moving too much. It's a good learning exprience and networking opportunity.
+* Although it's also very tired, since everything to be finished within 1 day is intense.
+* Maybe next time, choose the one doesn't need to take the flight!
 
 
 [1]:https://eng.uber.com/category/articles/open-source-articles/
@@ -40,3 +60,5 @@ Hey, it's San Francisco! Havn't been here for many years, and till it's very win
 [4]:https://arxiv.org/pdf/1802.05814.pdf
 [5]:https://github.com/altosaar/variational-autoencoder
 [6]:https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
+[7]:https://www.youtube.com/channel/UCYAWJ3u8N6E6OI7GjIUe-Iw
+[8]:https://perceptilabs.readme.io/docs/download-1
