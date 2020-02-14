@@ -25,8 +25,45 @@ The speaker came from Microsoft Azure. He mentiones 7 patterns in AI problems, I
 ### AI to Empower AI (Agent Intelligence) 💖
 This is one of my favorite talk, maybe also because the speaker is a lead I admire. The company is called Compass, a real estate company, never thought computer vision can do so much creative work.
 
-* 
+* Services they do with computer vision:
+  * With computer vision, they help dress up an empty room, so that real estate agents could dress up the room in that way to improve sellings.
+  * Image Search
+  * Classify images and search for images based on similarity score
+    * With [HNSW][2], it provided most accurate results so far
+    * With NGT-OONG, it's the fastest algorithm for them so far
+      * I found [NGT][3]
+  * Filling missing frames in the video to smooth out the slow motion of room exhibition
+* Other AI Services:
+  * Recommendation & Ranking
+  * Similarity, Classification, Ranking
+  * Search suggestion
+  * Recommend price, in order to reach to the max demand
+* Their major clients are real estate agents, then agents' clients
+* The way they get agents' feedback is still majorly through product managers communication with the agents, there are some data analysis too.
+
+### AI as a Service, Autonomous Learning
+The speaker is the CEO from [RealityEngine.ai][4]. It seems that from her perspective, deep learning can do anything, includeing those what classical machine learning is good at, sounds like you need to learn more about deep learning. The company service suggests you the neural network architecture for you based on your situation (this idea is cool).
+
+* The company majorly is helping you to train with less data.
+* Methods to train with less data in NN
+  * Data Augmentation
+    * Modify eaisting input data and use the results as new input data
+      * Such as use rotated images as new image input
+    * With the help of GANs (Generative Adversarial Networks) to add more input
+  * [Meta Learning][5]
+    * Learning to learn
+    * Train on meta learner, then used the trainded meta learner to train other models.
+  * Transfer Learning
+    * Retrain pre-trained model
+    * Train a model on a very large dataset -> Then customize to each client by retraining the first layer with client's data
+  * Incorpporate Logic Rules in Neural Network
+    * This is what this company uses
+    * A user searches for neural architecture -> The company suggests the best neural net -> The user tweak it for their own needs
 
 
 
 [1]:https://github.com/Unity-Technologies/ml-agents
+[2]:https://github.com/nmslib/hnswlib
+[3]:https://opensource.com/article/19/10/ngt-open-source-library
+[4]:https://realityengines.ai/about
+[5]:https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html
