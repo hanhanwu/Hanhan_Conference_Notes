@@ -60,10 +60,21 @@ The speaker is the CEO from [RealityEngine.ai][4]. It seems that from her perspe
     * This is what this company uses
     * A user searches for neural architecture -> The company suggests the best neural net -> The user tweak it for their own needs
 
+## 2020-02-14 💝
+As you can see, it's Valentine's day and I was sitting in the workshop whole day. Something was wrong with Google Cloud lab environment, my account wwas dead, so it took me some time to move everything to move to my google colab and start over. Fortunately, finally finished the workshop.
 
+* [Tensorflow 2.0 Use Case][6]
+  * Feature engineering and neural network when using Tensorflow 2.0
+  * A simple Google BigQuery to query the public data
+  * How to use Tensorflow [tf.dataset][7] for data processing
+  
+## 2020-02-15 😊
+It's the last day workshop and it's Saturday today. The workshop starts at 9am, not sure why didn't hear the alarms this morning and when I woke up, it was more than 10am. I had an apple for breakfast, then drove to downtown Bellevue, had some nice food and had enough coffee in order to drive back. Filled the gas for my car. Visted a nice book store to check books in penetration testing. Finally drove back. In a word, did everything except attending the workshop. But the workshop today was held by Microsoft, consider all of the workshops that disappointed me a lot came from Microsoft, feeling better about my absence.
 
 [1]:https://github.com/Unity-Technologies/ml-agents
 [2]:https://github.com/nmslib/hnswlib
 [3]:https://opensource.com/article/19/10/ngt-open-source-library
 [4]:https://realityengines.ai/about
 [5]:https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html
+[6]:https://github.com/hanhanwu/Hanhan_COLAB_Experiemnts/blob/master/tensorflow2_training_day1.ipynb
+[7]:https://www.tensorflow.org/api_docs/python/tf/data/Dataset
