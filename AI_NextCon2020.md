@@ -111,7 +111,27 @@ pages.
 * `wP = TP/(TP + αFP)`, weighted precision is their prefered metrics, `α` normally is larger than 1 and is decided based on distribution or other factors.
 
 ### Time Series Forecasting from Statistical Methods to Deep Learning
-* 
+* Statistical Methods
+  * Pros
+    * Simple to understand
+    * Only need historical data
+    * Need deep understanding of data
+    * Can handle large amount of data
+    * High iterpretability
+  * Cons
+    * Difficult to consider correlation between series
+    * Hard to scale up, not easy for long term sequence
+    * Hard to include other features, such as price, category, etc.
+    * Feature engineering is needed (I personlly think, feature engineering is necessary in the industry)
+* Classical Machine Learning
+  * Lag 1 is not what happens in reality, which also makes k-fold difficult.
+  * Feature Engineering is needed for hand craft seasonality, trend, categorical features, etc.
+* Deep Learning
+  * Universal function approximator
+  * No extensive feature engineering
+  * Not much domain knowledge is required
+  * Can deal with unstructured data
+  * But there can also be tons of changes in the architecture
 * They are using [Dilate Convolution][12], which has similar idea as [WaveNet][13]. The basic idea is, there are multiple layers in the NN, upper layers will skip soe nodes in order ot get long term correlation.
 * Statistical Methods vs. Classical Machine Learning vs. Deep Learning
 
@@ -122,7 +142,7 @@ pages.
 | Lots of time series + other features | No feature engineering, able to learn complicated correlation | Able to learn complicated relation, need feature engineering | Cannot learn non-linear effect, hard to use unstructured data |
 
 ## 2020-02-14 💝
-As you can see, it's Valentine's day and I was sitting in the workshop whole day. Something was wrong with Google Cloud lab environment, my account wwas dead, so it took me some time to move everything to move to my google colab and start over. Fortunately, finally finished the workshop.
+As you can see, it's Valentine's day and I was sitting in the workshop whole day. Something was wrong with Google Cloud lab environment, my account was dead, so it took me some time to move everything to my google colab and start over. Fortunately, finally finished the workshop.
 
 * [Tensorflow 2.0 Use Case][6]
   * Feature engineering and neural network when using Tensorflow 2.0
