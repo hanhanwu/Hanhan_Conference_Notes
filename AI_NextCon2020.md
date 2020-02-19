@@ -1,5 +1,8 @@
 # AI NextCon 2020 💡
 
+* [Agenda][15]
+* [All Available Slides][16]
+
 ## 2020-02-12 ~ 2020-02-13 🌺
 My ticket has 2 days conference and 2 days workshop. It seems that it's a conference cares about computer vision a lot. But indeed, there are many creatives ideas have been done by computer vision in the industry. I like those algorithms talks, because those speakers talk deeper in machine learning algorithms in an easy-to-understand way, and also help you understand the whole process about how they solve the problems. What's more, most of them are Chinese! 💐
 
@@ -61,6 +64,7 @@ The speaker is the CEO from [RealityEngine.ai][4]. It seems that from her perspe
     * A user searches for neural architecture -> The company suggests the best neural net -> The user tweak it for their own needs
     
 ### [An Efficient Bandit Algorithm for Real Time Multivariate Optimization][8]
+* [Slides][14]
 * The speaker came from Amazon research group.
 * Optimization is commonly employed to determine the content of web pages, such as to maximize conversions on landing pages or click-through rates on search engine result pages. Here they focus on multivariate optimization of interactive web
 pages.
@@ -144,13 +148,14 @@ pages.
 ## 2020-02-14 💝
 As you can see, it's Valentine's day and I was sitting in the workshop whole day. Something was wrong with Google Cloud lab environment, my account was dead, so it took me some time to move everything to my google colab and start over. Fortunately, finally finished the workshop.
 
-* [Tensorflow 2.0 Use Case][6]
+* [My code - Tensorflow 2.0 Use Case][6]
   * Feature engineering and neural network when using Tensorflow 2.0
   * A simple Google BigQuery to query the public data
   * How to use Tensorflow [tf.dataset][7] for data processing
   
 ## 2020-02-15 😊
-It's the last day workshop and it's Saturday today. The workshop starts at 9am, not sure why didn't hear the alarms this morning and when I woke up, it was more than 10am. I had an apple for breakfast, then drove to downtown Bellevue, had some nice food and had enough coffee in order to drive back. Filled the gas for my car. Visted a nice book store to check books in penetration testing. Finally drove back. In a word, did everything except attending the workshop. But the workshop today was held by Microsoft, consider all of the workshops that disappointed me a lot came from Microsoft, feeling better about my absence.
+It's half day NLP deep learning workshop, basic NLP.
+I had Ding Tai Fung today! Although the rice cake had too much soy sauce.
 
 [1]:https://github.com/Unity-Technologies/ml-agents
 [2]:https://github.com/nmslib/hnswlib
@@ -165,3 +170,6 @@ It's the last day workshop and it's Saturday today. The workshop starts at 9am, 
 [11]:https://github.com/deepfakes/faceswap
 [12]:https://towardsdatascience.com/review-dilated-convolution-semantic-segmentation-9d5a5bd768f5
 [13]:https://github.com/ibab/tensorflow-wavenet
+[14]:https://drive.google.com/drive/folders/1hsQoIalGmhOjaGKTKjsQh_1FVOb3Myz0
+[15]:http://aisea20.xnextcon.com/
+[16]:https://drive.google.com/drive/folders/1hsQoIalGmhOjaGKTKjsQh_1FVOb3Myz0
