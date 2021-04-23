@@ -35,7 +35,21 @@ April 20 ~ 21
   * The way they correct the target, for a specific product-location (SKU) on a given day
     * `demand = sales + markdown_demand = sales + 𝝰 * markdown_sales` 
       * `𝝰` depends on price reduction at hand and corresponding individual (i.e., each SKU-date) elasticity: exact dependency can be determined from observed data by means of supervised machine learning model 
-
+* Their ts preprocessing suggestions
+  * binning - to help remove outliers
+    * equistatistics binning - to remove skewness (almost same # of observations per bin)
+  * smoothing - help reduce variance
+    * Instead of using the raw data, they remove high peaks
+* [Categorical vs Mean Target Encoding][2]
+  * Categorical Encoding: they often use that in retail, and prefer to use it for different individual ts and external features
+    * Lower bias, higher variance 
+  * Target Mean Encoding: they often used that in manufacturing, and prefer to use it for similar ts without much external features
+    * Higher bias, lower variance 
+* Autocorrelation
+  * They suggest to avoid using target autocorrelation, such as exponential smoothing values. Because it's common that in ts, Yt-1 and Yt look like having autocorrelation, but in fact it's caused by temporal confounding
+* Halo Effects
+* 
 
 [1]:https://drive.google.com/drive/folders/1qcw0ZQl64KhWmk_g6rbupFRKsV2O7kfC
+[2]:https://towardsdatascience.com/why-you-should-try-mean-encoding-17057262cd0
 
