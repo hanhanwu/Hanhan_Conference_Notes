@@ -1,5 +1,5 @@
 # Toronto Retail Machine Learning Summit 2021
-* There's no break between any talk at all... 
+* There's no break between the talks at all... 😵😵
 
 ## [ML-Based Time Series Regression: concepts that can be learned from Demand Forecasting][1]
 * This is the talk given by BlueYonder, they focus on retail demand sensing. 
@@ -102,7 +102,7 @@
 ### Learnings
 * The focus on this talk was Markdown Optimization. According to them, this type of optimization could boost the forss margin by 10% ~ 20% for in-season and end-of-season sales programs
 * Method they use:
-  1. Clustering: to cluster prodcuts using product similarities, features used here are:
+  * Step 1 - Clustering: to cluster prodcuts using product similarities, features used here are:
     * normalized week number (week since first sale)
     * current selling price
     * quantity sold
@@ -110,7 +110,7 @@
     * sell through rate
     * markdown taken (binary variable)
     * % markdown   
-  3. SVM: to assign cluster numbers to new products, features used to in the product clusters' classification are:
+  * Step 2 - SVM: to assign cluster numbers to new products, features used to in the product clusters' classification are:
     * style
     * color
     * year
@@ -119,7 +119,7 @@
     * vendor
     * MSRP (manufacturer's suggested retail price)
     * cost
-  5. Random Forest: to predict markdown
+  * Step 3 - Random Forest: to predict markdown
 * For new products which are lack of the data, their solution didn't work well on all of them. Of course more data the better. Meanwhile they check the feature importance change before and after getting more data.
 * Ads, promotions are not included in their research
 
