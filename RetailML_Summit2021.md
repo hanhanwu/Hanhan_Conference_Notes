@@ -1,7 +1,7 @@
 # Toronto Retail Machine Learning Summit 2021
 * There's no break between any talk at all... 
 
-## ML-Based Time Series Regression: concepts that can be learned from Demand Forecasting
+## [ML-Based Time Series Regression: concepts that can be learned from Demand Forecasting][1]
 * This is the talk given by BlueYonder, they focus on retail demand sensing. 
 * Their main use cases
   * Replenishment: Order Optimization,  Avoid Out-of-Stock situations and waste
@@ -89,7 +89,7 @@
   * How to improve model performance on low_count product
   * Query scoping using MLP
 
-## Personalization in Retail
+## ]Personalization in Retail][7]
 * The talk was given by Amazon, the concept was simple, and sounded more like seeling this tool called "AWS Personalize"....
 * [About AWS Personlaize][6], the main methods are:
   * collaborative filtering
@@ -141,6 +141,8 @@
 <p align="center">
 <img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/end2end_system.png" width="700" height="400" />
 </p>
+
+
 
 
 
