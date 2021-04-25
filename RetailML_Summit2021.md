@@ -89,7 +89,7 @@
   * How to improve model performance on low_count product
   * Query scoping using MLP
 
-## ]Personalization in Retail][7]
+## [Personalization in Retail][7]
 * The talk was given by Amazon, the concept was simple, and sounded more like seeling this tool called "AWS Personalize"....
 * [About AWS Personlaize][6], the main methods are:
   * collaborative filtering
@@ -142,8 +142,21 @@
 <img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/end2end_system.png" width="700" height="400" />
 </p>
 
-
-
+## Mapping Product Attributes to Images
+* The talk was given by Staples
+* In order to allow the user find the right products, they are adding visual search to reduce the false positive cases in text search
+* Method Evolution
+  * Early method was using word2vec, later method added auto-encoder to filter out product outliers
+  * The same product could have multiple styles, they do the product mapping (might be similar to the product space idea in "In-session Personalization" talk) and look at product seach space to find the closest item
+<p align="center">
+<img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/method.png" width="700" height="400" />
+</p>
+* Iterative Modeling Process
+  * They can continuously add new data and labels
+  * They can keep correcting wrong labels 
+<p align="center">
+<img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/process.png" width="700" height="400" />
+</p>
 
 
 [1]:https://drive.google.com/drive/folders/1qcw0ZQl64KhWmk_g6rbupFRKsV2O7kfC
