@@ -1,4 +1,5 @@
 # Toronto Retail Machine Learning Summit 2021
+* There's no break between any talk at all... 
 
 ## ML-Based Time Series Regression: concepts that can be learned from Demand Forecasting
 * This is the talk given by BlueYonder, they focus on retail demand sensing. 
@@ -94,6 +95,48 @@
   * collaborative filtering
   * context based filtering which allows you to apply business rules for the filtering
 * [Retail Demo Store][7] and [All the workshops' code][8]
+
+## Retail AI Use Case: Building a Demand Prediction Model
+* The talk was given by a professor at Retail Analytics Council at Northwestern University. Their Research includes dealing with out-of-stock and overstock, waste reduction, inventory accuracy (such as theft, wrong records in the inventory managemnet) and markdown optimization.
+
+### Learnings
+* The focus on this talk was Markdown Optimization. According to them, this type of optimization could boost the forss margin by 10% ~ 20% for in-season and end-of-season sales programs
+* Method they use:
+  1. Clustering: to cluster prodcuts using product similarities, features used here are:
+    * normalized week number (week since first sale)
+    * current selling price
+    * quantity sold
+    * average cost
+    * sell through rate
+    * markdown taken (binary variable)
+    * % markdown   
+  3. SVM: to assign cluster numbers to new products, features used to in the product clusters' classification are:
+    * style
+    * color
+    * year
+    * week
+    * class
+    * vendor
+    * MSRP (manufacturer's suggested retail price)
+    * cost
+  5. Random Forest: to predict markdown
+* For new products which are lack of the data, their solution didn't work well on all of them. Of course more data the better. Meanwhile they check the feature importance change before and after getting more data.
+* Ads, promotions are not included in their research
+
+## Boosting Retail Margins: Price Optimization with ML
+* The talk was given by Tryolabs. They need to understand the price elasticity of demand in order to find the best price to maximize objective function.
+* The task is to maximize the profit function:
+  * `max(sum(Q(pi) * (pi - ci)))`
+    * Q is demand function, p is price, c is cost
+* Challenges include:
+  * Stock level constraints
+  * Dependent demands (subsititute products)
+  * Retailer's additional goals are unknown
+* Experimental Setup
+  * Pricing Frequency: hourly, daily, weekly (selected)
+  * Set of products: one category (selected), many categories, one subcategory
+  * Time span: no exploration, time for exploration (selected), time for exploitation (selected)
+  * Benchmark: control store (selected), control products, control region
 
 
 
