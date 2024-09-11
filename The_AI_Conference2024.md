@@ -27,6 +27,12 @@
 * [Andi search][1], search without ad or spam.
   * Hmm, I tried some search, not that accurate....
 
+ 
+## Future Opportunities
+* [Ray Summit][2]
+
+
 
 
 [1]:https://andisearch.com/
+[2]:https://raysummit.anyscale.com/flow/anyscale/raysummit2024/landing/page/eventsite
