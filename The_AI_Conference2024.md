@@ -24,8 +24,15 @@
 
 
 ## AI Powered Tools
+* [Otter.ai][5], I saw lots of people uses this tool to take conference notes in real time, looks quite efficient
+* [Llama Index][3] enables querying form large amount of info more efficiently
+  * [It has many integrations][4] 
 * [Andi search][1], search without ad or spam.
   * Hmm, I tried some search, not that accurate....
+
+
+## Lessons Learned from Founders
+* If customers need more accurate results, such as BI reports, building AI Assistant is better than building AI Chatbot, because current AI technique is not mature enough to handle 
 
  
 ## Future Opportunities
@@ -34,5 +41,9 @@
 
 
 
+
 [1]:https://andisearch.com/
 [2]:https://raysummit.anyscale.com/flow/anyscale/raysummit2024/landing/page/eventsite
+[3]:https://docs.llamaindex.ai/en/stable/getting_started/concepts/
+[4]:https://llamahub.ai/
+[5]:https://get.otter.ai/interview-transcription/?utm_source=google_ads&utm_medium=search&utm_term=automatic%20note%20taking%20app&utm_campaign=search-prospecting-consumer-nonbrand-transcriptionv2-exact&hsa_acc=6047463090&hsa_cam=20014220152&hsa_grp=149129772198&hsa_ad=657350971384&hsa_src=g&hsa_tgt=kwd-661171101282&hsa_kw=automatic%20note%20taking%20app&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoEvS_2E4VZdACghBQNsNVfsA4gvPrT717byHC9azGiL3EB_-5JmwWABoCKrEQAvD_BwE
