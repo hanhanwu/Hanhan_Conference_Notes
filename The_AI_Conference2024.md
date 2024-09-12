@@ -26,7 +26,11 @@
 ## AI Powered Tools
 * [Otter.ai][5], I saw lots of people uses this tool to take conference notes in real time, looks quite efficient
 * [Llama Index][3] enables querying form large amount of info more efficiently
-  * [It has many integrations][4] 
+  * [It has many integrations][4]
+* [Phoenix][9] traces LLM application runs, to help you understand what's happening under the ground
+* [Stability AI][6], it provides open source image, video, language models (has specific Japanese trained model)
+  * [Check its models][7]
+  * [Generative models github][8]
 * [Andi search][1], search without ad or spam.
   * Hmm, I tried some search, not that accurate....
 
@@ -47,3 +51,7 @@
 [3]:https://docs.llamaindex.ai/en/stable/getting_started/concepts/
 [4]:https://llamahub.ai/
 [5]:https://get.otter.ai/interview-transcription/?utm_source=google_ads&utm_medium=search&utm_term=automatic%20note%20taking%20app&utm_campaign=search-prospecting-consumer-nonbrand-transcriptionv2-exact&hsa_acc=6047463090&hsa_cam=20014220152&hsa_grp=149129772198&hsa_ad=657350971384&hsa_src=g&hsa_tgt=kwd-661171101282&hsa_kw=automatic%20note%20taking%20app&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoEvS_2E4VZdACghBQNsNVfsA4gvPrT717byHC9azGiL3EB_-5JmwWABoCKrEQAvD_BwE
+[6]:https://github.com/Stability-AI
+[7]:https://stability.ai/
+[8]:https://github.com/Stability-AI/generative-models
+[9]:https://github.com/Arize-ai/phoenix
