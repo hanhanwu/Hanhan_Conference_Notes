@@ -32,11 +32,12 @@
   * By contrast, [LangGraph][11] and [Llama Index's Workflow][13] are event base
 * [Llama Index's Workflow][13] allows you to build a workflow that's reusable and modularized
   * [for example][14]
-* 🌺 [Stability AI][6], it provides open source image, video, language models (has specific Japanese trained model)
+* [Stability AI][6], it provides open source image, video, language models (has specific Japanese trained model)
   * [Check its models][7]
   * [Generative models github][8]
+  * Hmmm, I tried its DreamStudio, but the generated image is not as accurate as latest ChatGPT, the visual effects is not very good either....
 * [Andi search][1], search without ad or spam.
-  * Hmm, I tried some search, not that accurate....
+  * Hmmm, I tried some search, not that accurate....
 
 
 ## Lessons Learned from AI Practitioners 
