@@ -8,6 +8,18 @@
   * To drive the trust, need to make people feel they're parnering with you to create solutions
   * Need to make people feel being rewarded rather than feeling afraid of being replaced
   * Need to think about the whole system redesign with adopting the AI solutions
+ 
+* Intuit's GenOS Architucture
+  * According to Merrin, it's handling hundreds of use cases now, and it's built in 1.5 years
+  * Besides, they also have product monitoring 
+ 
+<p align="left">
+<img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/Intuit_GenOS1.jpeg" width="780" height="600" />
+</p>
+ 
+<p align="left">
+<img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/Intuit_GenOS2.jpeg" width="780" height="600" />
+</p>
 
 
 ## AI Powered Tools
@@ -70,7 +82,6 @@
 
 ## Questions to Think 🤔
 * Doordash uses LLM ot generate the data, can we also use LLM to generate data? Such as cross selling product pairs?
-* How to use AI to unlock creativity?
 * How to use AI to streamline the process of changes?
 
 [1]:https://andisearch.com/
