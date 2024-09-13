@@ -54,7 +54,10 @@
       * having human in the loop to provide feedbacks (thumbs up/down, comments)   
   * At the end of your evals work, focus on the most complex queries' performance
 * Lessons learned from OpenAI
-  *  
+  * Although the overall performance of LLM keeps improving, the individaul downstream tasks' enhancing speed varies
+    * easy tasks like grammer improves faster
+    * hard tasks like math improves slower
+    * Scaling may not help every LLM task, sometimes smaller language model works better
 
 
 ## Startup Tips
