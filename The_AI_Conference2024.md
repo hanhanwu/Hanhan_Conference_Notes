@@ -32,6 +32,7 @@
   * By contrast, [LangGraph][11] and [Llama Index's Workflow][13] are event base
 * 🌺 LlamaIndex has some interesting tools
   * [Llama Parse][15] can parse the info from excel and allow AI to answer questions about the excel
+  * [An example][16]
 * [LlamaIndex's Workflow][13] allows you to build a workflow that's reusable and modularized
   * [for example][14]
 * [Stability AI][6], it provides open source image, video, language models (has specific Japanese trained model)
