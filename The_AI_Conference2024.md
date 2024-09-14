@@ -30,7 +30,9 @@
   * Its company Arize has more AI productionization experience in the industry
   * [Check its quickstarts][12] for Tracing, Evaluation, Inferences, Datasets & Expriments
   * By contrast, [LangGraph][11] and [Llama Index's Workflow][13] are event base
-* [Llama Index's Workflow][13] allows you to build a workflow that's reusable and modularized
+* 🌺 LlamaIndex has some interesting tools
+  * [Llama Parse][15] can parse the info from excel and allow AI to answer questions about the excel
+* [LlamaIndex's Workflow][13] allows you to build a workflow that's reusable and modularized
   * [for example][14]
 * [Stability AI][6], it provides open source image, video, language models (has specific Japanese trained model)
   * [Check its models][7]
@@ -58,6 +60,8 @@
     * easy tasks like grammer improves faster
     * hard tasks like math improves slower
     * Scaling may not help every LLM task, sometimes smaller language model works better
+* Lessons learned from Fabi.ai
+  * There’s a gap between ML models and business analysis, business questions can vary widely and require more back & forth communication within a short time. ML models has challenge to handle such requests. </b>AI can serve as an assistant, and if we want to build real good AI products, we have to understand the business very well.</b>
 
 
 ## Startup Tips
@@ -88,6 +92,7 @@
 * Doordash uses LLM ot generate the data, can we also use LLM to generate data? Such as cross selling product pairs?
 * How to use AI to streamline the process of changes?
 
+
 [1]:https://andisearch.com/
 [2]:https://raysummit.anyscale.com/flow/anyscale/raysummit2024/landing/page/eventsite
 [3]:https://docs.llamaindex.ai/en/stable/getting_started/concepts/
@@ -102,3 +107,5 @@
 [12]:https://docs.arize.com/phoenix#quickstarts
 [13]:https://docs.llamaindex.ai/en/stable/module_guides/workflow/
 [14]:https://docs.llamaindex.ai/en/stable/examples/workflow/react_agent/
+[15]:https://github.com/run-llama/llama_parse
+[16]:https://www.youtube.com/watch?v=mpOVBgVBkuo
