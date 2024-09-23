@@ -3,7 +3,7 @@
 ## Conferences
 * [The AI Conference 2024 - San Francisco][7]
 * [Toronto Retail Machine Learning Summit 2021 - Online][6]
-* [KDD 2020 partial notes- Online][5]
+* [KDD 2020 partial notes - Online][5]
 * [AI NextCon 2020 - Seattle][1]
 * [MLCon 2019 - San Francisco][2]
 * [DEFCon26 2018 - Las Vegas][3]
