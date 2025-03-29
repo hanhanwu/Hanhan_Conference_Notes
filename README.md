@@ -1,6 +1,7 @@
 # Hanhan_Conference_Notes
 
 ## Conferences
+* [Toronto Conversational AI Summit 2025 - Toronto][8]
 * [The AI Conference 2024 - San Francisco][7]
 * [Toronto Retail Machine Learning Summit 2021 - Online][6]
 * [KDD 2020 partial notes - Online][5]
@@ -20,3 +21,4 @@
 [5]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/KDD2020.md
 [6]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/RetailML_Summit2021.md
 [7]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/The_AI_Conference2024.md
+[8]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/conversational_ai_2025.md
