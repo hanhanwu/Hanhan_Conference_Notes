@@ -15,3 +15,10 @@
   * build feedback loops is important
   * can use query rewriting to deal with ambiguity
   * monitoring is needed
+ 
+### Research Papers from JP Morgan
+* [GENERATING STRUCTURED PLAN REPRESENTATION OF PROCEDURES WITH LLMS][1]
+  * SOPStruct presents a transformative approach to SOPs (Standard Operating Procedures) management by leveraging LLMs to generate structured, decision-tree-based representations of procedures. This method addresses the limitations of traditional process modeling techniques, offering enhanced clarity, standardization, and automation potential. By facilitating better comprehension and execution of SOPs, SOPStruct paves the way for future advancements in automated procedure optimization. 
+
+
+[1]:https://arxiv.org/pdf/2504.00029v1
