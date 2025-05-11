@@ -1,6 +1,7 @@
 # Hanhan_Conference_Notes
 
 ## Conferences
+* [AI Agent Conference 2025 - NYC][9]
 * [Toronto Conversational AI Summit 2025 - Toronto][8]
 * [The AI Conference 2024 - San Francisco][7]
 * [Toronto Retail Machine Learning Summit 2021 - Online][6]
@@ -22,3 +23,4 @@
 [6]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/RetailML_Summit2021.md
 [7]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/The_AI_Conference2024.md
 [8]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/conversational_ai_2025.md
+[9]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/AI_Agent_Conference2025.md
