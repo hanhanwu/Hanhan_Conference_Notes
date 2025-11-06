@@ -84,10 +84,10 @@ The only pity is, didn't chat with Robert in person. But what can I say to him a
 
 ### Grab: Build User Centric Foundation Models with Ray
 <p align="left">
-<img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/grab1.jpeg" width="780" height="600" />
+<img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/grab1.png" width="780" height="600" />
 </p>
 <p align="left">
-<img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/grab2.jpeg" width="780" height="600" />
+<img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/grab2.png" width="780" height="600" />
 </p>
 <p align="left">
 <img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/grab3.jpeg" width="780" height="600" />
