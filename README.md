@@ -1,6 +1,7 @@
 # Hanhan_Conference_Notes
 
 ## Conferences
+* [Ray Summit 2025 - San Francisco][10]
 * [AI Agent Conference 2025 - NYC][9]
 * [Toronto Conversational AI Summit 2025 - Toronto][8]
 * [The AI Conference 2024 - San Francisco][7]
@@ -24,3 +25,4 @@
 [7]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/The_AI_Conference2024.md
 [8]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/conversational_ai_2025.md
 [9]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/AI_Agent_Conference2025.md
+[10]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/Ray_Summit_2025.md
