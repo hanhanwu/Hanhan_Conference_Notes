@@ -9,5 +9,5 @@ The only pity is, didn't chat with Robert in person. But what can I say to him a
 ## Talks Highlight
 ### Alibaba AnalyticDB Ray - Accelerating AI Pipelines
 <p align="left">
-<img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/alibaba1.jpeg.jpeg" width="780" height="600" />
+<img src="https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/image/alibaba1.jpeg" width="780" height="600" />
 </p>
