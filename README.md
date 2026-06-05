@@ -1,7 +1,7 @@
 # Hanhan_Conference_Notes
 
 ## Conferences
-* [Arize Observe 2026 - San Francisco]][11]
+* [Arize Observe 2026 - San Francisco][11]
 * [Ray Summit 2025 - San Francisco][10]
 * [AI Agent Conference 2025 - NYC][9]
 * [Toronto Conversational AI Summit 2025 - Toronto][8]
