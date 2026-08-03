@@ -1,6 +1,8 @@
 # UC Berkeley Agentic AI Summit 2026
 
 UC Berkeley is very good at making money. The ticket was $499 ~ $699 per person, there were 2000+ attendees. No breakfast, no coffee at all... They were still selling tickets after selling out and told you to arrive earlier to be able to enter the main stage...
+I don't want to visit UC Berkeley again unless one day need to collaborate with them or got the invite to do a talk there. Have to admit this summit did give me good insight and some high quality network and some fun just to chat with people from different background, but always felt something was missing on that campus, I don't want to feel that type of loss again.
+
 
 ## Opportunities
 * Snorkel's open benchmark grants: https://benchmarks.snorkel.ai/, they're especially interested in legal benchmark data
