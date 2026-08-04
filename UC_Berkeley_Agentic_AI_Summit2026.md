@@ -23,7 +23,9 @@ I don't want to visit UC Berkeley again unless one day need to collaborate with 
 * CyberGym E2E: https://github.com/sunblaze-ucb/cybergym-e2e
   * The agent receives only source code, and must find the vulnerability, generate a proof-of-concept (poc.bin), and produce a patch (fix.patch).
 * ExploitGym: https://github.com/sunblaze-ucb/exploitgym
-  * ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities across userspace programs, Google's V8 engine, and the Linux kernel, designed to evaluate AI agents' ability to develop exploits.  
+  * ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities across userspace programs, Google's V8 engine, and the Linux kernel, designed to evaluate AI agents' ability to develop exploits.
+* Super Red: https://rdi.berkeley.edu/superred/
+  * SuperRed is a framework for red-teaming AI systems: you point an automated attacker (an optimizer) at an AI system (a target) and measure whether the attacker can make the system violate a security property (a security claim), under a precisely defined level of access (a security scope).   
 
 
 ## Notes
