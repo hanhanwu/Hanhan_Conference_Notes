@@ -1,6 +1,7 @@
 # AI Agent Conference 2026
 
-Now I prefer neep tech conversation with people who have hands-on experience for real customers in the industry. Most of these talks are not helpful to me, either they were given by non-tech people who are mainly advocating for their company or they were given by engineers from some giant company but actually the work they have done is, so so.... I no longer want to attend this type of conference any more...
+Most of the talks in this conference couldn't help me much. But talking with those senior or principle engineers are fun! Learned lots of insights from them! Then they got interested in what I'm doing, including my side projects! 
+
 
 ![AgentCon image 1](image/agent_con1.jpg)
 
@@ -22,3 +23,26 @@ Now I prefer neep tech conversation with people who have hands-on experience for
       * Around 800 actually belong to Billing → well calibrated around 80%.
       * Only 600 belong to Billing → overconfident.
       * Around 950 belong to Billing → underconfident.
+* Cisco & Splunk Agtns Observability
+  * Markdown & Knowledge Graph as the context (working in progress...)
+  * Cost, usage, latency are always must-have metrics
+  * Allow **user-AI interaction UI** to allow users ask AI to understand the observability dashboard appears to be an important feature, similar to the initiative of AI for BI when I was in Scotiabank
+  * **Alerts** initially set based on users' requirements, but they're trying to provide automatic **adaptive** solution to prioritize alerts
+  * Human beings to check the root causes of alters using **MCP Server**
+    * In the future, they might to have Claude to get access to customers' agents data through MCP server to solve the problems
+    * The alterts could be why the agent didn't deliver what's expected, or simply didn't work, didn't meet user's request, etc.
+* DevOps
+  * AI created much more workload to devops, they need to review much more lines of code without getting much help from AI.
+  * But people still spend time to contribute to open sources, and they're interested in what I'm building now
+* Obot
+  * Obot is an open-source platform for organizations to manage, secure, and govern their AI ecosystems.
+  * It allows coding agents (CODEX, CLaude, etc.) to use part of its platform
+  * Needs human to review JSON formated data for each incident (no wonder Ops people are busy...)
+  * Example
+    * Prompt injection that got customers' private data --> Obot's Defense in depth model
+      * Provide a list of tools for vulnerability support --> turn off tools to prevent customers' provate data got sent....
+        * But, if you turn off the tools to prevent such attacks, why did you provide the tools in in the first place.....
+    * The inspector also has **user-AI interaction interface**
+      * Able to see: Tools, Prompts, Resources, Chat, MCP Log
+      * I actually think Chat can show large amount of data, but it will help the users more by highlighting what's really important to them. For example, highlight the PII data that had been exposed to give the user enough warning 🤔
+
