@@ -1,6 +1,7 @@
 # Hanhan_Conference_Notes
 
 ## Conferences
+* [AI Agent Conference 2026 - San Jose][13]
 * [UC Berkeley Agentic AI Summit 2026 - Berkeley][12]
 * [Arize Observe 2026 - San Francisco][11]
 * [Ray Summit 2025 - San Francisco][10]
@@ -30,3 +31,4 @@
 [10]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/Ray_Summit_2025.md
 [11]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/arize_observe_2026.md
 [12]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/UC_Berkeley_Agentic_AI_Summit2026.md
+[13]:https://github.com/hanhanwu/Hanhan_Conference_Notes/blob/master/AgentCon.md
