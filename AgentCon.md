@@ -31,9 +31,14 @@ Most of the talks in this conference couldn't help me much. But talking with tho
   * Human beings to check the root causes of alters using **MCP Server**
     * In the future, they might to have Claude to get access to customers' agents data through MCP server to solve the problems
     * The alterts could be why the agent didn't deliver what's expected, or simply didn't work, didn't meet user's request, etc.
+* **General policy** that be applied to multiple agents' inspection
+  * Sometimes, this can be useful when the agent is non-code or when we don't have runtime data, such as
+    * whether certain data is presented in the agent; whether certain data of the agent has expected format, etc.
 * DevOps
   * AI created much more workload to devops, they need to review much more lines of code without getting much help from AI.
   * But people still spend time to contribute to open sources, and they're interested in what I'm building now
+  * Open Policy Agent: https://orca.security/resources/blog/what-is-open-policy-agent/
+    * Use it when you want deterministic, reproducible evaluation of explicit policies, and you ahve full control of the agent and gateway.
 * Obot
   * Obot is an open-source platform for organizations to manage, secure, and govern their AI ecosystems.
   * It allows coding agents (CODEX, CLaude, etc.) to use part of its platform
